@@ -15,6 +15,33 @@ A machine learning model with multiple linear regression to predict student perf
 - **Data Manipulation and Analysis**: Pandas
 - **Data Visualization**: Matplotlib
 
+### Setup Instructions
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/amandi-udawatta/Student-Performance-Prediction-Model.git
+   cd Student-Performance-Prediction-Model
+
+2. **Create a Virtual Environment:**:
+   ```bash
+   python3 -m venv venv
+
+3. **Activate the Virtual Environment:**
+   - On macOS/Linux:
+     ```bash
+      source venv/bin/activate
+   - On Windows:
+     ```bash
+      .\venv\Scripts\activate
+
+4. Install the Required Libraries:
+    ```bash
+     pip install -r requirements.txt
+
+5. Run the Model:
+    ```bash
+    python your_script_name.py
+
 ### Authors
 
 - [Amandi Udawatta](https://github.com/amandi-udawatta)
