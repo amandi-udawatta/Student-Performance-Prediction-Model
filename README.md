@@ -1,12 +1,14 @@
 # Student-Performance-Prediction-Model
 
-A machine learning model with multiple linear regression to predict student performance using features such as hours studied, previous scores, extracurricular activities, sleep hours, and practice of sample question papers
+A machine learning model using multiple linear regression to predict student performance based on features such as hours studied, previous scores, extracurricular activities, sleep hours, and practice of sample question papers. The model is optimized using gradient descent and evaluated through residual and predicted vs actual performance plots.
 
 ### Features
 
-- Gradient descent for optimizing the model parameters.
-- Data normalization and visualized the impact of each feature on the performance index..
-- Prediction of new data inputs with the trained model, achieving accurate predictions on student performance.
+- **Multiple Linear Regression**:   The model predicts student performance using traditional multiple linear regression techniques.
+- **Gradient Descent**:   Efficiently optimizes the model parameters to minimize prediction errors.
+- **Data Normalization**:   Standardizes the input features to ensure optimal model performance.
+- **Residuals and Performance Visualization**:   The model is evaluated using residual plots and predicted vs actual performance plots to assess prediction accuracy and model fit.
+- **New Data Prediction**:   The trained model can predict student performance based on new data inputs
 
 ### Tech Stack
 
